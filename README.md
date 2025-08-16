@@ -43,7 +43,7 @@ This firts screenshot showcases my experience with internal support systems and 
 
 </p>
 <p>
-This screenshot demonstrates my involvement in ticket management and team coordination within an IT support environment. In this scenario, I utilized the internal support system to assign a ticket (#424552) to a member of the online banking team, indicating ownership and accountability for resolving a reported issue.
+Next I demonstrates my involvement in ticket management and team coordination within an IT support environment. In this scenario, I utilized the internal support system to assign a ticket (#424552) to a member of the online banking team, indicating ownership and accountability for resolving a reported issue.
 </p>
 <br />
 
@@ -55,7 +55,7 @@ This screenshot demonstrates my involvement in ticket management and team coordi
 
 </p>
 <p>
-This screenshot highlights my ability to assess issue severity and apply the appropriate Service Level Agreement (SLA) to a critical support ticket. In this case, I updated the SLA plan for ticket #424552 to "SAV-A" due to a system-wide outage affecting customer access to online banking.
+Following alonge here is my ability to assess issue severity and apply the appropriate Service Level Agreement (SLA) to a critical support ticket. In this case, I updated the SLA plan for ticket #424552 to "SAV-A" due to a system-wide outage affecting customer access to online banking.
 </p>                                                                                     
 
 <br />
@@ -69,7 +69,7 @@ This screenshot highlights my ability to assess issue severity and apply the app
 
 </p>
 <p>
-This screenshot captures my detailed involvement in managing and diagnosing a high-impact service ticket. After assigning the ticket to myself and updating the SLA to SAV-A (1 hour - Active) due to customer-facing issues, I documented key actions and observations within the ticket threath.
+This next screenshot captures my detailed involvement in managing and diagnosing a high-impact service ticket. After assigning the ticket to myself and updating the SLA to SAV-A (1 hour - Active) due to customer-facing issues, I documented key actions and observations within the ticket threath.
 
 
 
@@ -77,7 +77,7 @@ This screenshot captures my detailed involvement in managing and diagnosing a hi
 <img src="https://github.com/user-attachments/assets/f4c01273-f476-488e-a09c-6c953ffddf80" />
 
 
-This screenshot shows the final stage of an incident management process, where I communicated the resolution of a high-priority issue to the affected user. After identifying a recent update as the root cause of the online banking outage, I initiated a rollback to restore functionality.
+This is the final stage of an incident management process, where I communicated the resolution of a high-priority issue to the affected user. After identifying a recent update as the root cause of the online banking outage, I initiated a rollback to restore functionality.
 </p>
 
 
@@ -87,7 +87,7 @@ This screenshot shows the final stage of an incident management process, where I
 
 
 
-This screenshot illustrates the final step in the incident lifecycle: officially closing ticket #424552 after successfully resolving the reported issue. Once the root cause was addressed and the system was confirmed to be functioning correctly, I updated the ticket status to "Resolved."
+This final step illustrates the final step in the incident lifecycle: officially closing ticket #424552 after successfully resolving the reported issue. Once the root cause was addressed and the system was confirmed to be functioning correctly, I updated the ticket status to "Resolved."
 
                                                       
 
